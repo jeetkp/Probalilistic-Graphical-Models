@@ -1,0 +1,2 @@
+The command to run the code is-
+python3 Q4.py

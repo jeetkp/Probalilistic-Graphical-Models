@@ -1,0 +1,2 @@
+Command to run Q5 
+python3 Q5.py
